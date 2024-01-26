@@ -1,0 +1,3 @@
+button[class^="PostReviewOrQuestion-button--"] {
+    text-wrap: wrap;
+}
